@@ -32,6 +32,8 @@ namespace saidaDeDados {
 
             Console.WriteLine("<------------>");
             Console.WriteLine($"{nome} tem {idade} anos e tem saldo igual a {saldo.ToString("F2")} R$");
+
+            Console.WriteLine("testando meu repositorio");
         }
     }
 }
