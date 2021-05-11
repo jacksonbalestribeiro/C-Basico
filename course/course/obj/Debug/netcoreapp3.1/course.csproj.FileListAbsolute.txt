@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\Curso C#\course\course\bin\Debug\netcoreapp3.1\course.exe
+C:\Users\Jackson\Desktop\Curso C#\course\course\bin\Debug\netcoreapp3.1\course.deps.json
+C:\Users\Jackson\Desktop\Curso C#\course\course\bin\Debug\netcoreapp3.1\course.runtimeconfig.json
+C:\Users\Jackson\Desktop\Curso C#\course\course\bin\Debug\netcoreapp3.1\course.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\Curso C#\course\course\bin\Debug\netcoreapp3.1\course.dll
+C:\Users\Jackson\Desktop\Curso C#\course\course\bin\Debug\netcoreapp3.1\course.pdb
+C:\Users\Jackson\Desktop\Curso C#\course\course\obj\Debug\netcoreapp3.1\course.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\Curso C#\course\course\obj\Debug\netcoreapp3.1\course.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\course\course\obj\Debug\netcoreapp3.1\course.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\Curso C#\course\course\obj\Debug\netcoreapp3.1\course.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\course\course\obj\Debug\netcoreapp3.1\course.dll
+C:\Users\Jackson\Desktop\Curso C#\course\course\obj\Debug\netcoreapp3.1\course.pdb
+C:\Users\Jackson\Desktop\Curso C#\course\course\obj\Debug\netcoreapp3.1\course.genruntimeconfig.cache
