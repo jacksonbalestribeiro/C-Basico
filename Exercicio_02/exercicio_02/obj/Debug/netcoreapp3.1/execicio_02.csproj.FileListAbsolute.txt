@@ -1,0 +1,12 @@
+C:\Users\Jackson\Desktop\Curso C#\execicio_02\execicio_02\bin\Debug\netcoreapp3.1\execicio_02.exe
+C:\Users\Jackson\Desktop\Curso C#\execicio_02\execicio_02\bin\Debug\netcoreapp3.1\execicio_02.deps.json
+C:\Users\Jackson\Desktop\Curso C#\execicio_02\execicio_02\bin\Debug\netcoreapp3.1\execicio_02.runtimeconfig.json
+C:\Users\Jackson\Desktop\Curso C#\execicio_02\execicio_02\bin\Debug\netcoreapp3.1\execicio_02.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\Curso C#\execicio_02\execicio_02\bin\Debug\netcoreapp3.1\execicio_02.dll
+C:\Users\Jackson\Desktop\Curso C#\execicio_02\execicio_02\bin\Debug\netcoreapp3.1\execicio_02.pdb
+C:\Users\Jackson\Desktop\Curso C#\execicio_02\execicio_02\obj\Debug\netcoreapp3.1\execicio_02.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\execicio_02\execicio_02\obj\Debug\netcoreapp3.1\execicio_02.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\Curso C#\execicio_02\execicio_02\obj\Debug\netcoreapp3.1\execicio_02.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\execicio_02\execicio_02\obj\Debug\netcoreapp3.1\execicio_02.dll
+C:\Users\Jackson\Desktop\Curso C#\execicio_02\execicio_02\obj\Debug\netcoreapp3.1\execicio_02.pdb
+C:\Users\Jackson\Desktop\Curso C#\execicio_02\execicio_02\obj\Debug\netcoreapp3.1\execicio_02.genruntimeconfig.cache
