@@ -1,0 +1,11 @@
+C:\Users\estagiario03\Desktop\C-Basico\operadoresLogicos\operadoresLogicos\bin\Debug\netcoreapp3.1\operadoresLogicos.exe
+C:\Users\estagiario03\Desktop\C-Basico\operadoresLogicos\operadoresLogicos\bin\Debug\netcoreapp3.1\operadoresLogicos.deps.json
+C:\Users\estagiario03\Desktop\C-Basico\operadoresLogicos\operadoresLogicos\bin\Debug\netcoreapp3.1\operadoresLogicos.runtimeconfig.json
+C:\Users\estagiario03\Desktop\C-Basico\operadoresLogicos\operadoresLogicos\bin\Debug\netcoreapp3.1\operadoresLogicos.runtimeconfig.dev.json
+C:\Users\estagiario03\Desktop\C-Basico\operadoresLogicos\operadoresLogicos\bin\Debug\netcoreapp3.1\operadoresLogicos.dll
+C:\Users\estagiario03\Desktop\C-Basico\operadoresLogicos\operadoresLogicos\bin\Debug\netcoreapp3.1\operadoresLogicos.pdb
+C:\Users\estagiario03\Desktop\C-Basico\operadoresLogicos\operadoresLogicos\obj\Debug\netcoreapp3.1\operadoresLogicos.csprojAssemblyReference.cache
+C:\Users\estagiario03\Desktop\C-Basico\operadoresLogicos\operadoresLogicos\obj\Debug\netcoreapp3.1\operadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\estagiario03\Desktop\C-Basico\operadoresLogicos\operadoresLogicos\obj\Debug\netcoreapp3.1\operadoresLogicos.AssemblyInfo.cs
+C:\Users\estagiario03\Desktop\C-Basico\operadoresLogicos\operadoresLogicos\obj\Debug\netcoreapp3.1\operadoresLogicos.dll
+C:\Users\estagiario03\Desktop\C-Basico\operadoresLogicos\operadoresLogicos\obj\Debug\netcoreapp3.1\operadoresLogicos.pdb
