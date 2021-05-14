@@ -1,0 +1,11 @@
+C:\Users\estagiario03\Desktop\C-Basico\estruturaCondicional\estruturaCondicional\bin\Debug\netcoreapp3.1\estruturaCondicional.exe
+C:\Users\estagiario03\Desktop\C-Basico\estruturaCondicional\estruturaCondicional\bin\Debug\netcoreapp3.1\estruturaCondicional.deps.json
+C:\Users\estagiario03\Desktop\C-Basico\estruturaCondicional\estruturaCondicional\bin\Debug\netcoreapp3.1\estruturaCondicional.runtimeconfig.json
+C:\Users\estagiario03\Desktop\C-Basico\estruturaCondicional\estruturaCondicional\bin\Debug\netcoreapp3.1\estruturaCondicional.runtimeconfig.dev.json
+C:\Users\estagiario03\Desktop\C-Basico\estruturaCondicional\estruturaCondicional\bin\Debug\netcoreapp3.1\estruturaCondicional.dll
+C:\Users\estagiario03\Desktop\C-Basico\estruturaCondicional\estruturaCondicional\bin\Debug\netcoreapp3.1\estruturaCondicional.pdb
+C:\Users\estagiario03\Desktop\C-Basico\estruturaCondicional\estruturaCondicional\obj\Debug\netcoreapp3.1\estruturaCondicional.csprojAssemblyReference.cache
+C:\Users\estagiario03\Desktop\C-Basico\estruturaCondicional\estruturaCondicional\obj\Debug\netcoreapp3.1\estruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\estagiario03\Desktop\C-Basico\estruturaCondicional\estruturaCondicional\obj\Debug\netcoreapp3.1\estruturaCondicional.AssemblyInfo.cs
+C:\Users\estagiario03\Desktop\C-Basico\estruturaCondicional\estruturaCondicional\obj\Debug\netcoreapp3.1\estruturaCondicional.dll
+C:\Users\estagiario03\Desktop\C-Basico\estruturaCondicional\estruturaCondicional\obj\Debug\netcoreapp3.1\estruturaCondicional.pdb
