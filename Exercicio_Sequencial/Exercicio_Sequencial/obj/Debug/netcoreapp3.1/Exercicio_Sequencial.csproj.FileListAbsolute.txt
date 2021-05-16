@@ -1,0 +1,13 @@
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\bin\Debug\netcoreapp3.1\Exercicio_Sequencial.exe
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\bin\Debug\netcoreapp3.1\Exercicio_Sequencial.deps.json
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\bin\Debug\netcoreapp3.1\Exercicio_Sequencial.runtimeconfig.json
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\bin\Debug\netcoreapp3.1\Exercicio_Sequencial.runtimeconfig.dev.json
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\bin\Debug\netcoreapp3.1\Exercicio_Sequencial.dll
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\bin\Debug\netcoreapp3.1\Exercicio_Sequencial.pdb
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\obj\Debug\netcoreapp3.1\Exercicio_Sequencial.csprojAssemblyReference.cache
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\obj\Debug\netcoreapp3.1\Exercicio_Sequencial.AssemblyInfoInputs.cache
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\obj\Debug\netcoreapp3.1\Exercicio_Sequencial.AssemblyInfo.cs
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\obj\Debug\netcoreapp3.1\Exercicio_Sequencial.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\obj\Debug\netcoreapp3.1\Exercicio_Sequencial.dll
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\obj\Debug\netcoreapp3.1\Exercicio_Sequencial.pdb
+C:\Users\Jackson\source\repos\Exercicio_Sequencial\Exercicio_Sequencial\obj\Debug\netcoreapp3.1\Exercicio_Sequencial.genruntimeconfig.cache
