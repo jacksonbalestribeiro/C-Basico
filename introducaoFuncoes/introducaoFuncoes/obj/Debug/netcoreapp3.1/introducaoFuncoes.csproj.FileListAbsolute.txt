@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\bin\Debug\netcoreapp3.1\introducaoFuncoes.exe
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\bin\Debug\netcoreapp3.1\introducaoFuncoes.deps.json
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\bin\Debug\netcoreapp3.1\introducaoFuncoes.runtimeconfig.json
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\bin\Debug\netcoreapp3.1\introducaoFuncoes.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\bin\Debug\netcoreapp3.1\introducaoFuncoes.dll
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\bin\Debug\netcoreapp3.1\introducaoFuncoes.pdb
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\obj\Debug\netcoreapp3.1\introducaoFuncoes.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\obj\Debug\netcoreapp3.1\introducaoFuncoes.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\obj\Debug\netcoreapp3.1\introducaoFuncoes.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\obj\Debug\netcoreapp3.1\introducaoFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\obj\Debug\netcoreapp3.1\introducaoFuncoes.dll
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\obj\Debug\netcoreapp3.1\introducaoFuncoes.pdb
+C:\Users\Jackson\Desktop\Curso C#\introducaoFuncoes\introducaoFuncoes\obj\Debug\netcoreapp3.1\introducaoFuncoes.genruntimeconfig.cache
