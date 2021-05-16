@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\bin\Debug\netcoreapp3.1\exercicio_Condicional.exe
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\bin\Debug\netcoreapp3.1\exercicio_Condicional.deps.json
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\bin\Debug\netcoreapp3.1\exercicio_Condicional.runtimeconfig.json
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\bin\Debug\netcoreapp3.1\exercicio_Condicional.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\bin\Debug\netcoreapp3.1\exercicio_Condicional.dll
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\bin\Debug\netcoreapp3.1\exercicio_Condicional.pdb
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\obj\Debug\netcoreapp3.1\exercicio_Condicional.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\obj\Debug\netcoreapp3.1\exercicio_Condicional.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\obj\Debug\netcoreapp3.1\exercicio_Condicional.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\obj\Debug\netcoreapp3.1\exercicio_Condicional.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\obj\Debug\netcoreapp3.1\exercicio_Condicional.dll
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\obj\Debug\netcoreapp3.1\exercicio_Condicional.pdb
+C:\Users\Jackson\Desktop\Curso C#\exercicio_Condicional\exercicio_Condicional\obj\Debug\netcoreapp3.1\exercicio_Condicional.genruntimeconfig.cache
