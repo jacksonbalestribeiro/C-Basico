@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\bin\Debug\netcoreapp3.1\ExercicioWhile.exe
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\bin\Debug\netcoreapp3.1\ExercicioWhile.deps.json
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\bin\Debug\netcoreapp3.1\ExercicioWhile.runtimeconfig.json
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\bin\Debug\netcoreapp3.1\ExercicioWhile.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\bin\Debug\netcoreapp3.1\ExercicioWhile.dll
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\bin\Debug\netcoreapp3.1\ExercicioWhile.pdb
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.dll
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.pdb
+C:\Users\Jackson\Desktop\Curso C#\ExercicioWhile\ExercicioWhile\obj\Debug\netcoreapp3.1\ExercicioWhile.genruntimeconfig.cache
