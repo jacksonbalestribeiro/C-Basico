@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\bin\Debug\netcoreapp3.1\exercicioFor.exe
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\bin\Debug\netcoreapp3.1\exercicioFor.deps.json
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\bin\Debug\netcoreapp3.1\exercicioFor.runtimeconfig.json
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\bin\Debug\netcoreapp3.1\exercicioFor.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\bin\Debug\netcoreapp3.1\exercicioFor.dll
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\bin\Debug\netcoreapp3.1\exercicioFor.pdb
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\obj\Debug\netcoreapp3.1\exercicioFor.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\obj\Debug\netcoreapp3.1\exercicioFor.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\obj\Debug\netcoreapp3.1\exercicioFor.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\obj\Debug\netcoreapp3.1\exercicioFor.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\obj\Debug\netcoreapp3.1\exercicioFor.dll
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\obj\Debug\netcoreapp3.1\exercicioFor.pdb
+C:\Users\Jackson\Desktop\Curso C#\exercicioFor\exercicioFor\obj\Debug\netcoreapp3.1\exercicioFor.genruntimeconfig.cache
