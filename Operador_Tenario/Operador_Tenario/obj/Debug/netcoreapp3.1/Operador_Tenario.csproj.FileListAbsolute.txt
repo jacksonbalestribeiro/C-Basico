@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\bin\Debug\netcoreapp3.1\Operador_Tenario.exe
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\bin\Debug\netcoreapp3.1\Operador_Tenario.deps.json
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\bin\Debug\netcoreapp3.1\Operador_Tenario.runtimeconfig.json
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\bin\Debug\netcoreapp3.1\Operador_Tenario.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\bin\Debug\netcoreapp3.1\Operador_Tenario.dll
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\bin\Debug\netcoreapp3.1\Operador_Tenario.pdb
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\obj\Debug\netcoreapp3.1\Operador_Tenario.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\obj\Debug\netcoreapp3.1\Operador_Tenario.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\obj\Debug\netcoreapp3.1\Operador_Tenario.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\obj\Debug\netcoreapp3.1\Operador_Tenario.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\obj\Debug\netcoreapp3.1\Operador_Tenario.dll
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\obj\Debug\netcoreapp3.1\Operador_Tenario.pdb
+C:\Users\Jackson\Desktop\Curso C#\Operador_Tenario\Operador_Tenario\obj\Debug\netcoreapp3.1\Operador_Tenario.genruntimeconfig.cache
