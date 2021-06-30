@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\bin\Debug\netcoreapp3.1\Operações_Com_String.exe
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\bin\Debug\netcoreapp3.1\Operações_Com_String.deps.json
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\bin\Debug\netcoreapp3.1\Operações_Com_String.runtimeconfig.json
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\bin\Debug\netcoreapp3.1\Operações_Com_String.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\bin\Debug\netcoreapp3.1\Operações_Com_String.dll
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\bin\Debug\netcoreapp3.1\Operações_Com_String.pdb
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\obj\Debug\netcoreapp3.1\Operações_Com_String.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\obj\Debug\netcoreapp3.1\Operações_Com_String.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\obj\Debug\netcoreapp3.1\Operações_Com_String.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\obj\Debug\netcoreapp3.1\Operações_Com_String.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\obj\Debug\netcoreapp3.1\Operações_Com_String.dll
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\obj\Debug\netcoreapp3.1\Operações_Com_String.pdb
+C:\Users\Jackson\Desktop\Curso C#\Operações_Com_String\Operações_Com_String\obj\Debug\netcoreapp3.1\Operações_Com_String.genruntimeconfig.cache
