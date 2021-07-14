@@ -1,0 +1,13 @@
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\bin\Debug\netcoreapp3.1\Aprendendo_TimeSpam.exe
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\bin\Debug\netcoreapp3.1\Aprendendo_TimeSpam.deps.json
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\bin\Debug\netcoreapp3.1\Aprendendo_TimeSpam.runtimeconfig.json
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\bin\Debug\netcoreapp3.1\Aprendendo_TimeSpam.runtimeconfig.dev.json
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\bin\Debug\netcoreapp3.1\Aprendendo_TimeSpam.dll
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\bin\Debug\netcoreapp3.1\Aprendendo_TimeSpam.pdb
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\obj\Debug\netcoreapp3.1\Aprendendo_TimeSpam.csprojAssemblyReference.cache
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\obj\Debug\netcoreapp3.1\Aprendendo_TimeSpam.AssemblyInfoInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\obj\Debug\netcoreapp3.1\Aprendendo_TimeSpam.AssemblyInfo.cs
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\obj\Debug\netcoreapp3.1\Aprendendo_TimeSpam.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\obj\Debug\netcoreapp3.1\Aprendendo_TimeSpam.dll
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\obj\Debug\netcoreapp3.1\Aprendendo_TimeSpam.pdb
+C:\Users\Jackson\Desktop\Curso C#\Aprendendo_TimeSpam\Aprendendo_TimeSpam\obj\Debug\netcoreapp3.1\Aprendendo_TimeSpam.genruntimeconfig.cache

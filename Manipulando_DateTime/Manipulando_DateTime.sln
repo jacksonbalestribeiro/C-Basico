@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manipulando_DateTime", "Manipulando_DateTime\Manipulando_DateTime.csproj", "{BC3DEAAD-E5EF-47B3-BB78-D73D2C8DC733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC3DEAAD-E5EF-47B3-BB78-D73D2C8DC733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3DEAAD-E5EF-47B3-BB78-D73D2C8DC733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3DEAAD-E5EF-47B3-BB78-D73D2C8DC733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3DEAAD-E5EF-47B3-BB78-D73D2C8DC733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56F3451B-EF47-46CC-8CDB-6F0C86B4A5D4}
+	EndGlobalSection
+EndGlobal
